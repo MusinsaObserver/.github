@@ -10,41 +10,11 @@ The app helps users make smarter purchasing decisions by showing current prices 
 
 ## 📖 목차 | Table of Contents
 
-- [Persona](#persona)  
-- [Milestone](#milestone)  
-- [Challenge & Solution](#challenge--solution)  
 - [주요 기능](#주요-기능) | Features  
 - [기술 스택](#기술-스택) | Tech Stack  
 - [How To?](#how-to)  
 - [Progress Status](#progress-status)  
 - [Contact](#contact)  
-
----
-
-## Persona
-
-**패션과 유행에 관심이 많은 대학생 A씨**  
-- SNS에서 유명한 패션 트렌드를 참고하며 다양한 아이템을 구입하려 함.  
-- 대학생이기에 예산이 제한되어 할인 상품을 주로 구매.
-
----
-
-## Milestone
-
-**패션 피플들이 예산을 아끼며 현명하게 소비할 수 있도록 돕자.**  
-"Let's help fashion enthusiasts save money and shop wisely."
-
----
-
-## Challenge & Solution
-
-### iOS
-- **문제**: 기존의 그래프 라이브러리는 유연성이 부족하거나 성능 문제를 일으켜, 사용자가 원하는 정확하고 매끄러운 그래프를 제공하기 어려웠습니다.  
-- **해결책**: CoreAnimation을 활용해 직접 가격 변동 그래프를 그리도록 구현했습니다.
-
-### Backend
-- **문제**: 보안과 관리의 유연성 때문에 익숙한 방식이던 JWT 토큰 대신 세션으로 전환해야 했습니다.  
-- **해결책**: 세션 기반 인증으로 전환하여 Spring Security를 통해 유연한 사용자 인증 및 관리 방식을 구축했습니다.
 
 ---
 
