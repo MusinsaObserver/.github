@@ -75,48 +75,27 @@ The app helps users make smarter purchasing decisions by showing current prices 
 ## 기술 스택 | Tech Stack
 
 - **iOS**: Swift, SwiftUI, CoreAnimation  
+- **Frontend**: React
 - **Backend**: Spring Boot, JPA, Spring Security  
 - **Authentication**: OAuth2, 세션 기반 인증(Session-Based Authentication)  
-- **Deployment**: AWS EC2, GitHub Actions  
+- **Deployment**: AWS EC2, GitHub Actions
 
 ---
 
 ## How To?
 
-1. **애플 로그인을 통해 간단하게 로그인하세요.**  
-   Log in easily using Apple Sign-In.
+1. **애플 로그인을 통해 간단하게 로그인하세요.(iOS 앱 한정)**
+   Log in easily using Apple Sign-In.(Available exclusively on iOS)
 2. **홈 화면의 검색창에 관심 있는 패션 아이템을 검색하세요.**  
    Search for fashion items using the search bar on the home screen.
 3. **검색 결과에서 원하는 아이템을 선택하세요.**  
    Select an item from the search results.
-4. **상세 페이지에서 관심 있는 아이템을 찜 목록에 추가하고 가격 변동 그래프를 확인하세요.**  
-   Add items to your favorites list and view their price trend graph on the detail page.
-5. **가격이 하락하면 푸시 알림이 뜹니다.**  
-   Receive push notifications when the price drops.
-6. **찜 목록에서 저장한 상품들을 확인하세요.**  
-   Check your saved items in the favorites list.
-
----
-
-## Progress Status
-
-### 담당한 부분
-- **Backend**: 서버 개발 및 CI/CD 구축 완료, 출시 전 일부 로직 수정 중  
-- **iOS**: 앱 스토어 심사 준비 중 (TestFlight 활용 테스트 진행)
-
-### 담당하지 않은 부분
-- **Frontend**: 배포 준비 중
-
----
-
-## 추가 예정 | To Be Updated
-
-- **설치 및 실행 방법**  
-  - 백엔드 및 iOS 앱 실행 가이드 추가  
-- **데모 자료**  
-  - 앱 화면 스크린샷 또는 GIF 추가  
-- **사용자 가이드**  
-  - 퀴즈 및 가격 그래프 관련 상세 동작 설명  
+4. **상세 페이지에서 관심 있는 아이템을 찜 목록에 추가하고 가격 변동 그래프를 확인하세요.(iOS 앱 한정)**  
+   Add items to your favorites list and view their price trend graph on the detail page.(Available exclusively on iOS)
+5. **가격이 하락하면 푸시 알림이 뜹니다.(iOS 앱 한정)**  
+   Receive push notifications when the price drops.(Available exclusively on iOS)
+6. **찜 목록에서 저장한 상품들을 확인하세요.(iOS 앱 한정)**  
+   Check your saved items in the favorites list.(Available exclusively on iOS)
 
 ---
 
