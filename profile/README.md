@@ -1,5 +1,7 @@
 # Musinsa Observer
 
+[웹사이트 바로가기](https://musinsa-observer.store) | [Visit Website](https://musinsa-observer.store)
+
 Musinsa Observer는 무신사에서 사용자가 관심 있는 패션 제품을 쉽게 검색하고, 즐겨찾기하고, 가격 변동을 모니터링할 수 있는 iOS 앱과 웹 사이트입니다.  
 Musinsa Observer is an iOS app and website that allows users to easily search for fashion items on Musinsa, save favorites, and monitor price changes.
 
