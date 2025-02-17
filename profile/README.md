@@ -1,7 +1,5 @@
 # Musinsa Observer
 
-[웹사이트 바로가기](https://musinsa-observer.store) | [Visit Website](https://musinsa-observer.store)
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ddb1893c-b18a-4f64-9e43-18041a5d38cb" width="60%">
   <img src="https://github.com/user-attachments/assets/260d5f3d-9425-45af-991b-f5ff97d6d818" width="30%">
